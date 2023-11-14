@@ -1,6 +1,6 @@
 # golang-and-postgres
 Inserting timestamps. <br />
-Achieve concurrency in Golang through Go routines <br />
+Achieve concurrency in Golang through Go routines (pggoconcurrency) <br />
 Inserted 1,000,000 (million) records while achieving concurrency <br />
 Results are as followed. <br />
 Benchmarks: <br />
